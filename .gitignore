@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!lua/
+!LICENSE.md
+!init.lua
