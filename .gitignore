@@ -1,6 +1,7 @@
 *
 
 !.gitignore
-!/lua/*
+!/lua
+!/lua/**
 !LICENSE.md
 !init.lua
